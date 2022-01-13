@@ -10,5 +10,10 @@
  "kjcmhilkpbfmfjkhagahmeamegogckol": {
    "researchId": "b4b6eec",
    "rateUrl": "https://microsoftedge.microsoft.com/addons/detail/kjcmhilkpbfmfjkhagahmeamegogckol"
+ },
+ "feepngbnpefdbfpofojcbponmogaddbo": {
+   "researchId": "b4b6eec",
+   "researchEnable": true,
+   "rateUrl": "https://addons.opera.com/extensions/details/auto-refresh-page/"
  }
 }
