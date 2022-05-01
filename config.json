@@ -6,7 +6,8 @@
    "researchId": "8ece03e5",
    "researchEnable": true,
    "researchEndpoint": "https://research.2go2.top",
-   "analyticsId": "UA-207985295-6"
+   "analyticsId": "UA-207985295-6",
+   "silence": 0
  },
  "kjcmhilkpbfmfjkhagahmeamegogckol": {
    "researchId": "b4b6eec",
