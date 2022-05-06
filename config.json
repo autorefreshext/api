@@ -35,6 +35,7 @@
  "24e410bba6c6ee2d9f523b4f4d30544706ca17e1@temporary-addon": {
    "researchId": "8ece03e5",
    "researchEnable": true,
-   "researchEndpoint": "https://research.2go2.top"
+   "researchEndpoint": "https://research.2go2.top",
+   "silence": 0
  }
 }
