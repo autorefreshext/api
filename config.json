@@ -37,5 +37,8 @@
    "researchEnable": true,
    "researchEndpoint": "https://research.2go2.top",
    "silence": 0
+ },
+ "{da35dad8-f912-4c74-8f64-c4e6e6d62610}": {
+   "rateUrl": "https://addons.mozilla.org/ru/firefox/addon/auto-refresh-page/"
  }
 }
