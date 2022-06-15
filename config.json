@@ -39,6 +39,10 @@
    "silence": 0
  },
  "{da35dad8-f912-4c74-8f64-c4e6e6d62610}": {
+   "researchId": "8ece03e5",
+   "researchEnable": true,
+   "researchEndpoint": "https://research.2go2.top",
+   "silence": 5,
    "rateUrl": "https://addons.mozilla.org/firefox/addon/auto-refresh-page/"
  }
 }
