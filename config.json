@@ -46,5 +46,20 @@
    "researchEndpoint": "https://research.2go2.top",
    "silence": 5,
    "rateUrl": "https://addons.mozilla.org/firefox/addon/auto-refresh-page/"
+ },
+ "chrome": {
+   "researchId": "8ece03e5",
+   "researchEnable": true,
+   "researchEndpoint": "https://research.2go2.top"
+ },
+ "edge": {
+   "researchId": "8ece03e5",
+   "researchEnable": true,
+   "researchEndpoint": "https://research.2go2.top"
+ },
+ "opera": {
+   "researchId": "8ece03e5",
+   "researchEnable": true,
+   "researchEndpoint": "https://research.2go2.top"
  }
 }
