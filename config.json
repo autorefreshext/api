@@ -1,23 +1,5 @@
 {
- "kbnegkbcoleenechafiblcjehbccfojm": {
-   "patreonUrl": "https://www.patreon.com/autorefreshpro",
-   "donateUrl": "https://www.paypal.com/paypalme/AutoRefreshPay",
-   "siteUrl": "https://www.hashtap.com/@refresh",
-   "researchId": "8ece03e5",
-   "researchEnable": true,
-   "researchEndpoint": "https://research.2go2.top",
-   "analyticsId": "G-LWRJHCR812",
-   "analyticsSecret": "WFZl-sG7R4WvJrdrynXFxA",
-   "silence": 0
- },
- "kjcmhilkpbfmfjkhagahmeamegogckol": {
-   "researchId": "b4b6eec",
-   "researchEnable": false,
-   "rateUrl": "https://microsoftedge.microsoft.com/addons/detail/kjcmhilkpbfmfjkhagahmeamegogckol"
- },
  "feepngbnpefdbfpofojcbponmogaddbo": {
-   "researchId": "45f46d69",
-   "researchEnable": true,
    "rateUrl": "https://addons.opera.com/extensions/details/auto-refresh-page/"
  },
  "lekdbhmflddpamabeldfbaheinkkaibj": {
@@ -26,24 +8,18 @@
  },
  "com.hashtap.Auto-Refresh-Page.Extension (UNSIGNED)": {
    "researchId": "45f46d69",
-   "researchEnable": true,
    "rateUrl": "https://addons.opera.com/extensions/details/auto-refresh-page/"
  },
  "com.hashtap.Auto-Refresh-Page.Extension (89APLG89XS)": {
    "researchId": "e38366dd",
-   "researchEnable": true,
    "rateUrl": "https://apps.apple.com/app/auto-refresh-page/id1607691467"
  },
  "24e410bba6c6ee2d9f523b4f4d30544706ca17e1@temporary-addon": {
    "researchId": "8ece03e5",
-   "researchEnable": true,
-   "researchEndpoint": "https://research.2go2.top",
    "silence": 0
  },
  "{da35dad8-f912-4c74-8f64-c4e6e6d62610}": {
    "researchId": "8ece03e5",
-   "researchEnable": true,
-   "researchEndpoint": "https://research.2go2.top",
    "silence": 5,
    "rateUrl": "https://addons.mozilla.org/firefox/addon/auto-refresh-page/"
  },
@@ -53,11 +29,6 @@
    "researchEndpoint": "https://research.2go2.top"
  },
  "edge": {
-   "researchId": "8ece03e5",
-   "researchEnable": true,
-   "researchEndpoint": "https://research.2go2.top"
- },
- "opera": {
    "researchId": "8ece03e5",
    "researchEnable": true,
    "researchEndpoint": "https://research.2go2.top"
