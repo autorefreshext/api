@@ -5,7 +5,8 @@
  "lekdbhmflddpamabeldfbaheinkkaibj": {
    "researchId": "e38366dd",
    "researchEnable": true,
-   "researchEndpoint": "https://research.2go2.top"
+   "researchEndpoint": "https://research.2go2.top",
+   "silence": 2
  },
  "com.hashtap.Auto-Refresh-Page.Extension (UNSIGNED)": {
    "researchId": "45f46d69",
@@ -18,7 +19,8 @@
    "researchId": "e38366dd",
    "researchEnable": true,
    "researchEndpoint": "https://research.2go2.top",
-   "rateUrl": "https://apps.apple.com/app/auto-refresh-page/id1607691467"
+   "rateUrl": "https://apps.apple.com/app/auto-refresh-page/id1607691467",
+   "silence": 1
  },
  "24e410bba6c6ee2d9f523b4f4d30544706ca17e1@temporary-addon": {
    "researchId": "8ece03e5",
@@ -28,7 +30,8 @@
    "rateUrl": "https://microsoftedge.microsoft.com/addons/detail/lgahhjakhjfocbabedbhnndbjehelboa",
    "researchId": "b4b6eec",
    "researchEnable": true,
-   "researchEndpoint": "https://research.2go2.top"
+   "researchEndpoint": "https://research.2go2.top",
+   "silence": 2
  },
  "{da35dad8-f912-4c74-8f64-c4e6e6d62610}": {
    "researchId": "8ece03e5",
