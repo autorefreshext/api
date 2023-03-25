@@ -1,8 +1,8 @@
 {
  "feepngbnpefdbfpofojcbponmogaddbo": {
+   "researchEndpoint": "https://research.2go2.site",
    "researchId": "X1rKxBkQ_7DJ",
    "researchEnable": true,
-   "researchEndpoint": "https://research.2go2.site",
    "silence": 0,
    "rateUrl": "https://addons.opera.com/extensions/details/auto-refresh-page/"
  },
