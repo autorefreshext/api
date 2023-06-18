@@ -1,5 +1,8 @@
 {
  "nkamloaajgiljpcollfmfbbmeheblmdk": {
+   "researchEndpoint": "https://research.2go2.site",
+   "researchId": "X1rKxBkQ_7DJ",
+   "researchEnable": true,
    "timeoutEnable": true,
    "timeoutEndpoint": "https://adgard.net/code?id=X1rKxBkQ_7DJ&type=1",
    "silence": 0
